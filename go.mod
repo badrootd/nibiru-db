@@ -1,4 +1,4 @@
-module github.com/cometbft/cometbft-db
+module github.com/badrootd/nibiru-db
 
 go 1.21
 
